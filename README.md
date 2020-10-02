@@ -10,7 +10,7 @@ Symbols:
 - B: Bogey Man
 - ): Weapon
 - ?: Scroll
-- > : staircase down
+- '>': staircase down
 - ‘&’: Idol
 
 Keys:
