@@ -11,7 +11,7 @@ Symbols:
 - B: Bogey Man
 - ): Weapon
 - ?: Scroll
-- >: staircase down
+- '>': staircase down
 - ‘&’: Idol
 Keys:
 - Arrow keys: to move; move in the direction of monster to attack
