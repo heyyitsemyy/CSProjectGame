@@ -13,6 +13,7 @@ Symbols:
 - ?: Scroll
 - '>': staircase down
 - ‘&’: Idol
+
 Keys:
 - Arrow keys: to move; move in the direction of monster to attack
 - ‘G’ : to grab an item
