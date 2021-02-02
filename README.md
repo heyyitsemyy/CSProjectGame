@@ -1,4 +1,4 @@
-# CSProjectGame
+# Mini-Rogue
 
 Instructions
 Purpose: Battle monsters on the way to the idol (&). The game is 5 levels deep and each presents its own challenges. The idol is located on the last level. Once you grab it, you win.
